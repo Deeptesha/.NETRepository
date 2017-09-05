@@ -1,0 +1,17 @@
+﻿@using System.Globalization
+@using Localization;
+@using System.Threading;
+
+<ul style="margin-top:20px;">
+    @{
+        CultureInfo currentCulture = Thread.CurrentThread.CurrentCulture;
+
+        <li><a href="/Home/ChangeCurrentCulture/0">English</a></li>
+
+        <li><a href="/Home/ChangeCurrentCulture/1">Hindi</a></li>
+
+        <li><a href="/Home/ChangeCurrentCulture/2">Marathi</a></li>
+
+       
+    }
+</ul>
