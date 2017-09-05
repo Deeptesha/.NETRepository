@@ -1,0 +1,12 @@
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\bin\Debug\CodeBasedConsole.exe.config
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\bin\Debug\CodeBasedConsole.exe
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\bin\Debug\CodeBasedConsole.pdb
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\bin\Debug\CodeBasedLib.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\bin\Debug\EntityFramework.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\bin\Debug\CodeBasedLib.pdb
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\bin\Debug\EntityFramework.xml
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\obj\Debug\CodeBasedConsole.csprojResolveAssemblyReference.cache
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\obj\Debug\CodeBasedConsole.exe
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedConsole\obj\Debug\CodeBasedConsole.pdb

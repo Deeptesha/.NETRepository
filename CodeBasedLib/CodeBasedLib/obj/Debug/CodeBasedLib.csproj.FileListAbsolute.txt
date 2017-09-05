@@ -1,0 +1,14 @@
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\bin\Debug\CodeBasedLib.dll.config
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\bin\Debug\CodeBasedLib.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\bin\Debug\CodeBasedLib.pdb
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\bin\Debug\EntityFramework.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\bin\Debug\EntityFramework.xml
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\obj\Debug\CodeBasedLib.csprojResolveAssemblyReference.cache
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\obj\Debug\CodeBasedLib.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\obj\Debug\CodeBasedLib.pdb
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\obj\Debug\CodeBasedLib.Migrations.InitialCreate.resources
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\obj\Debug\CodeBasedLib.csproj.GenerateResource.Cache
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\obj\Debug\CodeBasedLib.Migrations.AddURL.resources
+c:\users\satpute_d\documents\visual studio 2015\Projects\CodeBasedLib\CodeBasedLib\obj\Debug\CodeBasedLib.Migrations.AddDepartment.resources
