@@ -1,0 +1,12 @@
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\bin\Debug\EntityClass.exe.config
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\obj\Debug\EntityClass.csprojResolveAssemblyReference.cache
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\bin\Debug\EntityClass.exe
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\bin\Debug\EntityClass.pdb
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\bin\Debug\EntityFramework.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\bin\Debug\EntityFrameworkLib.dll
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\bin\Debug\EntityFrameworkLib.pdb
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\bin\Debug\EntityFramework.xml
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\obj\Debug\EntityClass.exe
+c:\users\satpute_d\documents\visual studio 2015\Projects\EntityFramework\EntityClass\obj\Debug\EntityClass.pdb
